@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+   <classes>
+      <class name="createIncident.CreateIncident_160"/>
+       <methods >
+                     <include name="TestCase01ohioautomation"/>
+                    <include name="TestCase02CreateNewIncident"/>
+                    <include name="TestCase03ApparatusAndPersonnal"/>
+                    <include name="TestCase04Fire"/>
+                    <include name="TestCase05StructureFire"/>
+                    <include name="TestCase06Civillian_FireCasualty"/>
+                    <include name="TestCase07FireSeriveCasuality"/>
+                    <include name="TestCase08EMS"/>
+                    <include name="TestCase09HazMAt"/>
+                    <include name="TestCase10Arson"/>
+                       
+      </methods>
+      <class name="createIncident.CreateIncident_161"/>
+      <methods >
+                     <include name="TestCase01ohioautomation"/>
+                    <include name="TestCase02CreateNewIncident"/>
+                    <include name="TestCase03ApparatusAndPersonnal"/>
+                    <include name="TestCase04Fire"/>
+                    <include name="TestCase05StructureFire"/>
+                    <include name="TestCase06Civillian_FireCasualty"/>
+                    <include name="TestCase07FireSeriveCasuality"/>
+                    <include name="TestCase08EMS"/>
+                    <include name="TestCase09HazMAt"/>
+                    <include name="TestCase10Arson"/>  
+      </methods>
+      <class name="createIncident.CreateIncident_162"/>
+      <methods >
+                 	  <include name="TestCase01ohioautomation"/>
+                    <include name="TestCase02CreateNewIncident"/>
+                    <include name="TestCase03ApparatusAndPersonnal"/>
+                    <include name="TestCase04Fire"/>
+                    <include name="TestCase05StructureFire"/>
+                    <include name="TestCase06Civillian_FireCasualty"/>
+                    <include name="TestCase07FireSeriveCasuality"/>
+                    <include name="TestCase08EMS"/>
+                    <include name="TestCase09HazMAt"/>
+                    <include name="TestCase10Arson"/>
+                      
+      </methods>
+      <class name="createIncident.CreateIncident_163"/>
+      <methods >
+                    
+ 				 	  <include name="TestCase01ohioautomation"/>
+                    <include name="TestCase02CreateNewIncident"/>
+                    <include name="TestCase03ApparatusAndPersonnal"/>
+                    <include name="TestCase04Fire"/>
+                    <include name="TestCase05StructureFire"/>
+                    <include name="TestCase06Civillian_FireCasualty"/>
+                    <include name="TestCase07FireSeriveCasuality"/>
+                    <include name="TestCase08EMS"/>
+                    <include name="TestCase09HazMAt"/>
+                    <include name="TestCase10Arson"/>                    
+      </methods>
+      <class name="createIncident.CreateIncident_164"/>
+      <methods >
+                    <include name="TestCase01ohioautomation"/>
+                    <include name="TestCase02CreateNewIncident"/>
+                    <include name="TestCase03ApparatusAndPersonnal"/>
+                    <include name="TestCase04Fire"/>
+                    <include name="TestCase05StructureFire"/>
+                    <include name="TestCase06Civillian_FireCasualty"/>
+                    <include name="TestCase07FireSeriveCasuality"/>
+                    <include name="TestCase08EMS"/>
+                    <include name="TestCase09HazMAt"/>
+                    <include name="TestCase10Arson"/>
+                      
+      </methods>
+      
+      <class name="createIncident.CreateIncident_170"/>
+      <methods >
+                    <include name="TestCase01ohioautomation"/>
+                    <include name="TestCase02CreateNewIncident"/>
+                    <include name="TestCase03ApparatusAndPersonnal"/>
+                    <include name="TestCase04Fire"/>
+                    <include name="TestCase05StructureFire"/>
+                    <include name="TestCase06Civillian_FireCasualty"/>
+                    <include name="TestCase07FireSeriveCasuality"/>
+                    <include name="TestCase08EMS"/>
+                    <include name="TestCase09HazMAt"/>
+                    <include name="TestCase10Arson"/>  
+                     
+                      
+      </methods>
+      
+      <class name="createIncident.CreateIncident_811"/>
+      <methods >
+                     <include name="TestCase01ohioautomation"/>
+                    <include name="TestCase02CreateNewIncident"/>
+                    <include name="TestCase03ApparatusAndPersonnal"/>
+                    <include name="TestCase04FireSeriveCasuality"/>
+                    <include name="TestCase05Submit_Incident"/>  
+                   
+                      
+      </methods>
+      <class name="createIncident.CreateIncident_812"/>
+      <methods >
+                    <include name="TestCase01ohioautomation"/>
+                    <include name="TestCase02CreateNewIncident"/>
+                    <include name="TestCase03ApparatusAndPersonnal"/>
+                    <include name="TestCase04FireSeriveCasuality"/>
+                    <include name="TestCase05Submit_Incident"/>  
+                      
+      </methods>
+     
+     
+      <class name="createIncident.CreateIncident_813"/>
+      <methods >
+                    <include name="TestCase01ohioautomation"/>
+                    <include name="TestCase02CreateNewIncident"/>
+                    <include name="TestCase03ApparatusAndPersonnal"/>
+                    <include name="TestCase04FireSeriveCasuality"/>
+                    <include name="TestCase05Submit_Incident"/> 
+                      
+      </methods>
+      
+       <class name="createIncident.CreateIncident_814"/>
+      <methods >
+                  	 <include name="TestCase01ohioautomation"/>
+                    <include name="TestCase02CreateNewIncident"/>
+                    <include name="TestCase03ApparatusAndPersonnal"/>
+                    <include name="TestCase04FireSeriveCasuality"/>
+                    <include name="TestCase05Submit_Incident"/>
+      </methods>
+      
+       <class name="createIncident.CreateIncident_815"/>
+      <methods >
+                  	<include name="TestCase01ohioautomation"/>
+                    <include name="TestCase02CreateNewIncident"/>
+                    <include name="TestCase03ApparatusAndPersonnal"/>
+                    <include name="TestCase04FireSeriveCasuality"/>
+                    <include name="TestCase05Submit_Incident"/>
+                      
+      </methods>
+      
+       <class name="createIncident.CreateIncident_356"/>
+      <methods >
+                    <include name="TestCase01ohioautomation"/>
+                    <include name="TestCase02CreateNewIncident"/>
+                    <include name="TestCase03ApparatusAndPersonnal"/>
+                    <include name="TestCase04FireSeriveCasuality"/>
+                    <include name="TestCase05Submit_Incident"/>   
+                      
+      </methods>
+      
+       <class name="createIncident.CreateIncident_357"/>
+      <methods >
+                    <include name="TestCase01ohioautomation"/>
+                    <include name="TestCase02CreateNewIncident"/>
+                    <include name="TestCase03ApparatusAndPersonnal"/>
+                    <include name="TestCase04FireSeriveCasuality"/>
+                    <include name="TestCase05Submit_Incident"/>
+      </methods>
+      
+       <class name="createIncident.CreateIncident_130"/>
+      <methods >
+                    <include name="TestCase01ohioautomation"/>
+                    <include name="TestCase02CreateNewIncident"/>
+                    <include name="TestCase03ApparatusAndPersonnal"/>
+                    <include name="TestCase04Fire"/>
+                    <include name="TestCase05StructureFire"/>
+                    <include name="TestCase06Civillian_FireCasualty"/>
+                    <include name="TestCase07FireSeriveCasuality"/>
+                    <include name="TestCase08EMS"/>
+                    <include name="TestCase09HazMAt"/>
+                    <include name="TestCase10Arson"/>  
+                      
+      </methods>
+      </classes>
+    
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
